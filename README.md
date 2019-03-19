@@ -1,4 +1,6 @@
-# hello-world
-This is a repository which (hopefully) contains my code for the Hello World program. The purpose is to make me familiar with using Git.
+public class HelloWorld {
 
-My name is Rohit and I am learning how to use GitHub!
+    public static void main(String[] args) {
+        System.out.println("Hello, World");    }
+
+}
